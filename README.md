@@ -1,2 +1,2 @@
 # TodayStudy
-What I studied today
+매일 매일 배운거 써서 커밋하는 저장소입니다. 사실 일기장임 잇힝
